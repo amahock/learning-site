@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-img-cnt1{
+  background-image: url("../Images/bg-img-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+}
+
+.ver-align{
+  text-align: center;
+  padding-top: 6rem;
+}
+.know-more-btn{
+  /* padding-left: 40%; */
+  /* margin-left: 40%; */
+  border-radius: 32px;
+  padding: 12px 30px;
+  background-color: #1ea69a;
+}
+.nav-logo {
+  flex-basis: 8%;
+}
+.nav-heading {
+  flex-basis: 72%;
+  text-align: left;
+}
+
+.nav-links{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-no-p{
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer-bg{
+  /* background-color: #6351ce; */
+  background-color: #21d192;
+}
